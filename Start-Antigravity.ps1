@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS 
 Put this function in your powershell profile to easily start antigravity cli sandbox for a specific folder/repo
+
 #>
 function Start-Antigravity {
     [CmdletBinding()]
